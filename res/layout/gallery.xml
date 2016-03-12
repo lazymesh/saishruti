@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:background="#5772F9" >
+
+        <ImageView
+                android:id="@+id/hair"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/hair"
+                android:layout_alignParentTop="true"
+                android:paddingBottom="8dp"
+                android:adjustViewBounds="true"/>
+        <ImageView
+                android:id="@+id/facial"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/facial"
+                android:layout_below="@id/hair"
+                android:adjustViewBounds="true"/>
+        <ImageView
+                android:id="@+id/mehendi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/mehendi"
+                android:layout_below="@id/facial"
+                android:paddingBottom="8dp"
+                android:adjustViewBounds="true"/>
+        <ImageView
+                android:id="@+id/nail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/nail"
+                android:layout_below="@id/mehendi"
+                android:adjustViewBounds="true"/>
+        <ImageView
+                android:id="@+id/makeup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/make_up"
+                android:layout_below="@id/nail"
+                android:adjustViewBounds="true"/>
+        <ImageView
+                android:id="@+id/more"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/more"
+                android:layout_below="@id/makeup"
+                android:adjustViewBounds="true"/>
+    </RelativeLayout>
+</ScrollView>

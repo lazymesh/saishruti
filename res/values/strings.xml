@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SaiShruti</string>
+    <string name="about">Saishurti beauty parlor provides all services in affordable rates. Easy appointments by Phone and walk in are welcome. We respect your busy life, and provide flexible appointments for working women.We also offer complete beauty parlour training courses to all. We also offer herbal, facial, massage, Henna, waxing, threading, bridal makeup and more. We are located at Central chhetrapati Chowk.</string>
+    <string-array name="beautyTipsList">
+        <item>Mehendi</item>
+        <item>Facial</item>
+        <item>Nail</item>
+        <item>Skin</item>
+        <item>Eye</item>
+        <item>Health</item>
+        <item>Hair</item>
+        <item>Threading</item>
+        </string-array>
+    <string-array name="galleryList">
+        <item>Mehendi</item>
+        <item>Facial</item>
+        <item>Nail</item>
+        <item>Eye</item>
+        <item>Hair</item>
+        <item>Threading</item>
+        <item>Waxing</item>
+        <item>Massage</item>
+        <item>Massage</item>
+        <item>Skin</item>
+    </string-array>
+    <string-array name="services">
+        <item>Sehnaz facial - 1050 Rs</item>
+        <item>Skin whitening facial – 975 Rs</item>
+        <item>Gold facial (Ayurvedic) – 2000 Rs</item>
+        <item>Gold facial (Herbal) – 1200 Rs</item>
+        <item>Skin tightening facial – 1200 Rs</item>
+        <item>Pearl facial - 1250 Rs</item>
+        <item>Papaya facial - 850 Rs</item>
+        <item>Lotus facial (Ayurvedic) – 1200 Rs</item>
+        <item>Lotus facial (Herbal) – 850 Rs</item>
+        <item>Organic facial – 850 Rs</item>
+        <item>Organic facial – 850 Rs</item>
+        <item>यहाँ कपाल लामो हुने र नझर्ने हर्बल तेल पाईन्छ</item>
+        <item>यहाँ घरमै बनाईएको शुध्द गाजल पाइन्छ</item>
+        <item>यहाँ काखी गन्हाउने समस्या भएकाहरूको लागी हर्बल पाउडर पाईन्छ</item>
+        <item>यहाँ उप्टन (Home-made Scrub) पाईन्छ</item>
+    </string-array>
+</resources>
